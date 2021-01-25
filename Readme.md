@@ -127,7 +127,7 @@ Crear y dirigir un startup de tecnología es un desafío; más aún es hacerlo e
 </tr>
  <tr>
 <td>Valery Zúñiga Kondrashov</td>
-<td>Resumen de datos. ¡Rápido! ****Título por re-definir****</td>
+<td>Estadísticas de grupo rápidas: Cómo sacar el máximo provecho del paquete data.table</td>
 <td align="right">11</td>
 </tr>
    <tr>
