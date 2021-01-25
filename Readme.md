@@ -2,19 +2,19 @@
 
 ### Ciencia de datos geoespaciales para la vigilancia de la salud pública - Paula Moraga
 
-![](keynote1-01.png)
+![](keynote2-01.png)
 
 ### Cadena de favoRes - Mauro Lepore
 
-![](keynote2-01.png)
+![](keynote3-01.png)
 
 ### Observatorio COVID19-BR - Andrea Sánchez-Tapia
 
-![](keynote3-01.png)
+![](keynote4-01.png)
 
 ### EmprendeR: notas sobre el uso de R en la dirección de una empresa de robótica - Florian Pestoni
 
-![](keynote4-01.png)
+![](keynote1-01.png)
 
 ## Charlas
 
