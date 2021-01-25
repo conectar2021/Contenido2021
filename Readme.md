@@ -71,3 +71,5 @@
 * Búsqueda de jugadores con características de rendimiento similares en el fútbol centroamericano	- Gustavo Céspedes Ramírez	
 
 * Generación de reportes automáticos Mongo DB+Streamlit+R - Jorge Mario Carrasco Ortiz	
+
+* Uso de R para elaborar y visualizar mapas de ligamiento genético, y mapeo de genes causales de una mutación en papaya - Miguel Francisco Benavides Acevedo
