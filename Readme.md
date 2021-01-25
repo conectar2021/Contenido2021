@@ -1,20 +1,20 @@
 ## Keynotes
 
-- Ciencia de datos geoespaciales para la vigilancia de la salud pública - Paula Moraga
+### Ciencia de datos geoespaciales para la vigilancia de la salud pública - Paula Moraga
 
-Los datos de salud geoespaciales son esenciales para informar las políticas de salud pública. Estos datos pueden utilizarse para cuantificar la carga de enfermedades, comprender patrones geográficos y temporales, identificar factores de riesgo y medir desigualdades. En esta charla, describiré mi investigación que se centra en el desarrollo de métodos geoespaciales y aplicaciones de visualización interactivas para la vigilancia de la salud. Mostraré varios paquetes de R para manipular, modelizar y visualizar datos espaciales y para predecir el riesgo y guiar la implementación de intervenciones para la eliminación de enfermedades tropicales en varios países. También mostraré los paquetes de R epiflows para la predicción de la propagación de enfermedades por flujos de viajes, y SpatialEpiApp para el mapeo de enfermedades y la detección de clusters. Finalmente, describiré mis futuras líneas de investigación y cómo estas pueden contribuir a mejorar la salud de la población a nivel global.
+![](keynote1-01.png)
 
-- Cadena de favoRes - Mauro Lepore
+### Cadena de favoRes - Mauro Lepore
 
-El éxito de R depende de su comunidad. Históricamente, la popularidad de R (en Latinoamérica y el mundo) cambió mucho, y en relación a aspectos comunitarios. En esta charla, voy a argumentar que el crecimiento de R es alimentado por una cadena de favores; cada eslabón de la cadena representa el rol de un miembro de la comunidad de R. Voy a contar cómo encontré mi eslabón y, si aún no está claro, espero ayudarte a encontrar el tuyo.
+![](keynote2-01.png)
 
-- Observatorio COVID19-BR - Andrea Sánchez-Tapia
+### Observatorio COVID19-BR - Andrea Sánchez-Tapia
 
-El Observatorio COVID-19 BR es un grupo independiente de investigadores de diversas instituciones que tiene el objetivo de analizar el estado de la pandemia de COVID-19 en Brasil y divulgar información actualizada y de calidad al público. El Observatorio cuenta con más de 40 investigadores de diversas áreas del conocimiento, y mantiene una comunicación cercana con diversos actores relevantes para el manejo de la pandemia, como gestores de salud pública, educadores y medios de comunicación, para subsidiar la toma de decisiones y divulgar información de manera precisa. Los grupos de trabajo dentro del Observatorio utilizan bases de datos públicas, repositorios de código abierto y flujos de trabajo automatizados para generar modelos matemáticos, simular diferentes escenarios e identificar tendencias de la pandemia en Brasil. La página del Observatorio es https://covid19br.github.io/ y la cuenta de twitter es https://twitter.com/obscovid19br. 
+![](keynote3-01.png)
 
-- EmprendeR: notas sobre el uso de R en la dirección de una empresa de robótica - Florian Pestoni
+### EmprendeR: notas sobre el uso de R en la dirección de una empresa de robótica - Florian Pestoni
 
-Crear y dirigir un startup de tecnología es un desafío; más aún es hacerlo en una área emergente como la de los robots autónomos. Como fundador y CEO de InOrbit, una plataforma para operación de robots a escala, mi objetivo es utilizar datos para tomar mejores decisiones. Con un equipo pequeño, donde todos ponemos nuestro mejor esfuerzo para avanzar el producto y el negocio, es importante para mí poder ser autosuficiente y no depender de que algún ingeniero o científico de datos pueda tomarse el tiempo para contestar una pregunta. Se espera que alguien como yo con un MBA pueda utilizar Excel, y sin duda lo he usado intensamente para crear modelos financieros complejos. Pero a la hora de sumergirme más profundo en los datos operativos, la limitaciones de Excel se hicieron sentir. Así es que decidí aprender R y crear dashboards, reportes y notebooks. En esta charla, quiero compartir mi experiencia en el trayecto hacia el uso de R en la dirección de una empresa de robótica.
+![](keynote4-01.png)
 
 ## Charlas
 
