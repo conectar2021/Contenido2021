@@ -68,31 +68,72 @@ Crear y dirigir un startup de tecnología es un desafío; más aún es hacerlo e
 * R en procesos Lean Six Sigma para industrias de manufactura latinoamericanas - Jhair Aldás	
 * Identificación de nombres de empresas en artículos de noticias: Aplicación de la técnica NER en lenguaje natural - Gustavo Céspedes Ramírez	
 
-
 ## Pósters
 
-* chronicle: Reportería HTML sin fricción	- Philippe Heymans Smith	
-
-* Democratizando el uso de modelos de Machine Learning con Shiny	- Eugenio Grant Mora	
-
-* A new R package for the analysis of the fisheries population under uncertainty - Marta Cousido Rocha	
-
-* Análisis y visualización de datos del fenotipo de las semillas y germinación de un set de accesiones de la colección mundial de frijol mediante Rstudio	- Luis Barboza-Barquero	
-
-* Humanidades digitales con R	- Agustin Nieto	
-
-* Uso y experiencias de R-exams para Mediación Virtual en la UCR	- Maikol Solís Chacón	
-
-* Ciudades Inteligentes	- Eduardo Jimenez Gonzalez	
-
-* Búsqueda de jugadores con características de rendimiento similares en el fútbol centroamericano	- Gustavo Céspedes Ramírez	
-
-* Generación de reportes automáticos Mongo DB+Streamlit+R - Jorge Mario Carrasco Ortiz	
-
-* Uso de R para elaborar y visualizar mapas de ligamiento genético, y mapeo de genes causales de una mutación en papaya - Miguel Francisco Benavides Acevedo
-
-* Resumen de datos. ¡Rápido! ****Título por re-definir**** - Valery Zúñiga Kondrashov	
-
-* biocthis: crea paquetes de R/Bioconductor - Leonardo Collado Torres	
-
+<table class="table table-bordered table-hover table-condensed">
+<thead><tr><th width="40%" title="Field #1">Nombre</th>
+<th width="40%" title="Field #2">Título</th>
+<th width="10%" title="Field #3">Sala</th>
+</tr></thead>
+<tbody><tr>
+<td>Philippe Heymans Smith </td>
+<td>chronicle: Reportería HTML sin fricción</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td>Eugenio Grant Mora</td>
+<td>Democratizando el uso de modelos de Machine Learning con Shiny</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td>Marta Cousido Rocha</td>
+<td>A new R package for the analysis of the fisheries population under uncertainty </td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td>Luis Barboza-Barquero</td>
+<td>Análisis y visualización de datos del fenotipo de las semillas y germinación de un set de accesiones de la colección mundial de frijol mediante Rstudio</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td>Agustin Nieto </td>
+<td>Humanidades digitales con R</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td>Maikol Solís Chacón  </td>
+<td>Uso y experiencias de R-exams para Mediación Virtual en la UCR</td>
+<td align="right">6</td>
+</tr>
+<tr>
+<td>Eduardo Jimenez Gonzalez</td>
+<td>Ciudades Inteligentes</td>
+<td align="right">7</td>
+</tr>
+<tr>
+<td>Gustavo Céspedes Ramírez</td>
+<td>Búsqueda de jugadores con características de rendimiento similares en el fútbol centroamericano</td>
+<td align="right">8</td>
+</tr>
+<tr>
+<td>Jorge Mario Carrasco Ortiz</td>
+<td>Generación de reportes automáticos Mongo DB+Streamlit+R</td>
+<td align="right">9</td>
+</tr>
+<tr>
+<td>Miguel Francisco Benavides Acevedo</td>
+<td>Uso de R para elaborar y visualizar mapas de ligamiento genético, y mapeo de genes causales de una mutación en papaya</td>
+<td align="right">10</td>
+</tr>
+ <tr>
+<td>Valery Zúñiga Kondrashov</td>
+<td>Resumen de datos. ¡Rápido! ****Título por re-definir****</td>
+<td align="right">11</td>
+</tr>
+   <tr>
+<td>Leonardo Collado Torres</td>
+<td>biocthis: crea paquetes de R/Bioconductor</td>
+<td align="right">12</td>
+</tr>
+</tbody></table>
 
