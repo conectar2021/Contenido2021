@@ -73,3 +73,9 @@
 * Generación de reportes automáticos Mongo DB+Streamlit+R - Jorge Mario Carrasco Ortiz	
 
 * Uso de R para elaborar y visualizar mapas de ligamiento genético, y mapeo de genes causales de una mutación en papaya - Miguel Francisco Benavides Acevedo
+
+* Resumen de datos. ¡Rápido! ****Título por re-definir**** - Valery Zúñiga Kondrashov	
+
+* biocthis: crea paquetes de R/Bioconductor - Leonardo Collado Torres	
+
+
