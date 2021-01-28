@@ -38,7 +38,7 @@ Crear y dirigir un startup de tecnología es un desafío; más aún es hacerlo e
 
 ### Día 1, Sesión 2
 
-* rTLS: una herramienta en R para procesar y calcular métricas de nubes de puntos derivadas de sensores LiDAR terrestres - J. Antonio Guzmán Q
+* [rTLS: una herramienta en R para procesar y calcular métricas de nubes de puntos derivadas de sensores LiDAR terrestres](https://drive.google.com/file/d/1xmepO8lbn5ONdjAgCv73EkJMMYBgRtMU/view) - J. Antonio Guzmán Q
 * EnRedándonos con datos atípicos en análisis ecológicos - Angie Viviana Montañez Salinas
 
 ### Día 2, Sesión 1
