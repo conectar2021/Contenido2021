@@ -77,17 +77,17 @@ Crear y dirigir un startup de tecnología es un desafío; más aún es hacerlo e
 </tr></thead>
 <tbody><tr>
 <td>Philippe Heymans Smith </td>
-<td><a href="url">chronicle: Reportería HTML sin fricción</a></td>
+<td><a href="https://pheymanss.github.io/chronicle_conectaR2021/">chronicle: Reportería HTML sin fricción</a></td>
 <td align="right">1</td>
 </tr>
 <tr>
 <td>Eugenio Grant Mora</td>
-<td><a href="url">Democratizando el uso de modelos de Machine Learning con Shiny</a></td>
+<td><a href="https://rpubs.com/EugenioGrant/ConectaR2021">Democratizando el uso de modelos de Machine Learning con Shiny</a></td>
 <td align="right">2</td>
 </tr>
 <tr>
 <td>Marta Cousido Rocha</td>
-<td><a href="url">A new R package for the analysis of the fisheries population under uncertainty</a></td>
+<td><a href="marta_cousido.pdf">A new R package for the analysis of the fisheries population under uncertainty</a></td>
 <td align="right">3</td>
 </tr>
 <tr>
