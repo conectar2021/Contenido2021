@@ -33,7 +33,7 @@ Crear y dirigir un startup de tecnología es un desafío; más aún es hacerlo e
 
 ### Día 1, Sesión 1
 
-* SNPverso y demencia - Erick Cuevas Fernández
+* [SNPverso y demencia](https://www.dropbox.com/s/a3i11hivwju489x/ConectaR_SNPverso_Demencia.pdf?dl=0) - Erick Cuevas Fernández
 * R para conocer sobre biodiversidad desde GBIF - Angélica Arenas Rodríguez
 
 ### Día 1, Sesión 2
