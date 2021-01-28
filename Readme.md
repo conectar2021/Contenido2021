@@ -77,62 +77,62 @@ Crear y dirigir un startup de tecnología es un desafío; más aún es hacerlo e
 </tr></thead>
 <tbody><tr>
 <td>Philippe Heymans Smith </td>
-<td>chronicle: Reportería HTML sin fricción</td>
+<td><a href="url">chronicle: Reportería HTML sin fricción</a></td>
 <td align="right">1</td>
 </tr>
 <tr>
 <td>Eugenio Grant Mora</td>
-<td>Democratizando el uso de modelos de Machine Learning con Shiny</td>
+<td><a href="url">Democratizando el uso de modelos de Machine Learning con Shiny</a></td>
 <td align="right">2</td>
 </tr>
 <tr>
 <td>Marta Cousido Rocha</td>
-<td>A new R package for the analysis of the fisheries population under uncertainty </td>
+<td><a href="url">A new R package for the analysis of the fisheries population under uncertainty</a></td>
 <td align="right">3</td>
 </tr>
 <tr>
 <td>Luis Barboza-Barquero</td>
-<td>Análisis y visualización de datos del fenotipo de las semillas y germinación de un set de accesiones de la colección mundial de frijol mediante Rstudio</td>
+<td><a href="url">Análisis y visualización de datos del fenotipo de las semillas y germinación de un set de accesiones de la colección mundial de frijol mediante Rstudio</a></td>
 <td align="right">4</td>
 </tr>
 <tr>
 <td>Agustin Nieto </td>
-<td>Humanidades digitales con R</td>
+<td><a href="url">Humanidades digitales con R</a></td>
 <td align="right">5</td>
 </tr>
 <tr>
 <td>Maikol Solís Chacón  </td>
-<td>Uso y experiencias de R-exams para Mediación Virtual en la UCR</td>
+<td><a href="url">Uso y experiencias de R-exams para Mediación Virtual en la UCR</a></td>
 <td align="right">6</td>
 </tr>
 <tr>
 <td>Eduardo Jimenez Gonzalez</td>
-<td>Ciudades Inteligentes</td>
+<td><a href="url">Ciudades Inteligentes</a></td>
 <td align="right">7</td>
 </tr>
 <tr>
 <td>Gustavo Céspedes Ramírez</td>
-<td>Búsqueda de jugadores con características de rendimiento similares en el fútbol centroamericano</td>
+<td><a href="url">Búsqueda de jugadores con características de rendimiento similares en el fútbol centroamericano</a></td>
 <td align="right">8</td>
 </tr>
 <tr>
 <td>Jorge Mario Carrasco Ortiz</td>
-<td>Generación de reportes automáticos Mongo DB+Streamlit+R</td>
+<td><a href="url">Generación de reportes automáticos Mongo DB+Streamlit+R</a></td>
 <td align="right">9</td>
 </tr>
 <tr>
 <td>Miguel Francisco Benavides Acevedo</td>
-<td>Uso de R para elaborar y visualizar mapas de ligamiento genético, y mapeo de genes causales de una mutación en papaya</td>
+<td><a href="url">Uso de R para elaborar y visualizar mapas de ligamiento genético, y mapeo de genes causales de una mutación en papaya</a></td>
 <td align="right">10</td>
 </tr>
  <tr>
 <td>Valery Zúñiga Kondrashov</td>
-<td>Estadísticas de grupo rápidas: Cómo sacar el máximo provecho del paquete data.table</td>
+<td><a href="url">Estadísticas de grupo rápidas: Cómo sacar el máximo provecho del paquete data.table</a></td>
 <td align="right">11</td>
 </tr>
    <tr>
 <td>Leonardo Collado Torres</td>
-<td>biocthis: crea paquetes de R/Bioconductor</td>
+<td><a href="url">biocthis: crea paquetes de R/Bioconductor</a></td>
 <td align="right">12</td>
 </tr>
 </tbody></table>
