@@ -2,12 +2,13 @@
 
 ### Ciencia de datos geoespaciales para la vigilancia de la salud pública - Paula Moraga
 
+La presentación se puede encontrar [aquí](https://www.paulamoraga.com/presentation-geohealth/#1).
+
 Los datos de salud geoespaciales son esenciales para informar las políticas de salud pública. Estos datos pueden utilizarse para cuantificar la carga de enfermedades, comprender patrones geográficos y temporales, identificar factores de riesgo y medir desigualdades. En esta charla, describiré mi investigación que se centra en el desarrollo de métodos geoespaciales y aplicaciones de visualización interactivas para la vigilancia de la salud. Mostraré varios paquetes de R para manipular, modelizar y visualizar datos espaciales y para predecir el riesgo y guiar la implementación de intervenciones para la eliminación de enfermedades tropicales en varios países. También mostraré los paquetes de R epiflows para la predicción de la propagación de enfermedades por flujos de viajes, y SpatialEpiApp para el mapeo de enfermedades y la detección de clusters. Finalmente, describiré mis futuras líneas de investigación y cómo estas pueden contribuir a mejorar la salud de la población a nivel global.
 
 
 ![](keynote2-01.png)
 
-La presentación se puede encontrar [aquí](https://www.paulamoraga.com/presentation-geohealth/#1).
 
 ### Cadena de favoRes - Mauro Lepore
 
