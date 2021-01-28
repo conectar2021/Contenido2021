@@ -110,7 +110,7 @@ Crear y dirigir un startup de tecnología es un desafío; más aún es hacerlo e
 </tr>
 <tr>
 <td>Eduardo Jimenez Gonzalez</td>
-<td><a href="url">Ciudades Inteligentes</a></td>
+<td><a href="url">Ciudades Inteligentes ** retirado ** </a></td>
 <td align="right">7</td>
 </tr>
 <tr>
