@@ -92,17 +92,17 @@ Crear y dirigir un startup de tecnología es un desafío; más aún es hacerlo e
 </tr>
 <tr>
 <td>Luis Barboza-Barquero</td>
-<td><a href="url">Análisis y visualización de datos del fenotipo de las semillas y germinación de un set de accesiones de la colección mundial de frijol mediante Rstudio</a></td>
+<td><a href="http://rpubs.com/LBarboza/717296">Análisis y visualización de datos del fenotipo de las semillas y germinación de un set de accesiones de la colección mundial de frijol mediante Rstudio</a></td>
 <td align="right">4</td>
 </tr>
 <tr>
 <td>Agustin Nieto </td>
-<td><a href="url">Humanidades digitales con R</a></td>
+<td><a href="https://estudiosmaritimossociales.org/hd_con_r.html">Humanidades digitales con R</a></td>
 <td align="right">5</td>
 </tr>
 <tr>
 <td>Maikol Solís Chacón  </td>
-<td><a href="url">Uso y experiencias de R-exams para Mediación Virtual en la UCR</a></td>
+<td><a href="https://github.com/maikol-solis/poster-maikol-solis-conectaR-2021/blob/master/uso_y_experiencias_de_r_exams_para_mediacion_virtual_en_la_ucr.pdf">Uso y experiencias de R-exams para Mediación Virtual en la UCR</a></td>
 <td align="right">6</td>
 </tr>
 <tr>
@@ -112,27 +112,27 @@ Crear y dirigir un startup de tecnología es un desafío; más aún es hacerlo e
 </tr>
 <tr>
 <td>Gustavo Céspedes Ramírez</td>
-<td><a href="url">Búsqueda de jugadores con características de rendimiento similares en el fútbol centroamericano</a></td>
+<td><a href="https://gustavocesra.shinyapps.io/jugadores_similares/">Búsqueda de jugadores con características de rendimiento similares en el fútbol centroamericano</a></td>
 <td align="right">8</td>
 </tr>
 <tr>
 <td>Jorge Mario Carrasco Ortiz</td>
-<td><a href="url">Generación de reportes automáticos Mongo DB+Streamlit+R</a></td>
+<td><a href="https://sop.defensajuridica.gov.co/reportes/conectaR/#0">Generación de reportes automáticos Mongo DB+Streamlit+R</a></td>
 <td align="right">9</td>
 </tr>
 <tr>
 <td>Miguel Francisco Benavides Acevedo</td>
-<td><a href="url">Uso de R para elaborar y visualizar mapas de ligamiento genético, y mapeo de genes causales de una mutación en papaya</a></td>
+<td><a href="Poster_mapas_de_ligamiento_papaya_ConectaR.pdf">Uso de R para elaborar y visualizar mapas de ligamiento genético, y mapeo de genes causales de una mutación en papaya</a></td>
 <td align="right">10</td>
 </tr>
  <tr>
 <td>Valery Zúñiga Kondrashov</td>
-<td><a href="url">Estadísticas de grupo rápidas: Cómo sacar el máximo provecho del paquete data.table</a></td>
+<td><a href="https://telaroz.github.io/conectaR2021/index.html">Estadísticas de grupo rápidas: Cómo sacar el máximo provecho del paquete data.table</a></td>
 <td align="right">11</td>
 </tr>
    <tr>
 <td>Leonardo Collado Torres</td>
-<td><a href="url">biocthis: crea paquetes de R/Bioconductor</a></td>
+<td><a href="https://speakerdeck.com/lcolladotor/biocthis-conectar2021">biocthis: crea paquetes de R/Bioconductor</a></td>
 <td align="right">12</td>
 </tr>
 </tbody></table>
