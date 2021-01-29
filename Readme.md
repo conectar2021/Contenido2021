@@ -43,7 +43,7 @@ Crear y dirigir un startup de tecnología es un desafío; más aún es hacerlo e
 
 ### Día 2, Sesión 1
 
-* [Ya sabe programar en R, ¿y enseñarlo?]() - Cristina Soto Rojas; Mariana Cubero Corella; Carlos Gamboa-Venegas
+* [Ya sabe programar en R, ¿y enseñarlo?](https://www.dropbox.com/s/tccwi6yqwd06ca6/ConectaR_Ense%C3%B1anza_R.pdf?dl=0) - Cristina Soto Rojas; Mariana Cubero Corella; Carlos Gamboa-Venegas
 * [Incorporando R como herramienta de análisis de datos en el curso de Estadística para estudiantes de Computación](https://www.dropbox.com/s/dai4fta25o7uqjl/Uso%20de%20R%20en%20cursos%20de%20Estad%C3%ADstica_ConectaR%202021.pdf?dl=0) - Esteban Jose Ballestero Alfaro
 
 ### Día 2, Sesión 2
