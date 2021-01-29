@@ -12,7 +12,7 @@ Los datos de salud geoespaciales son esenciales para informar las políticas de 
 
 ### Cadena de favoRes - Mauro Lepore
 
-La presentación se puede encontrar [aquí](Mauro-keynote.html).
+La presentación se puede encontrar [aquí](https://maurolepore.github.io/conectar21).
 
 El éxito de R depende de su comunidad. Históricamente, la popularidad de R (en Latinoamérica y el mundo) cambió mucho, y en relación a aspectos comunitarios. En esta charla, voy a argumentar que el crecimiento de R es alimentado por una cadena de favores; cada eslabón de la cadena representa el rol de un miembro de la comunidad de R. Voy a contar cómo encontré mi eslabón y, si aún no está claro, espero ayudarte a encontrar el tuyo.
 
