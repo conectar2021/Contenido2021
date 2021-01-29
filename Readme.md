@@ -43,13 +43,13 @@ Crear y dirigir un startup de tecnología es un desafío; más aún es hacerlo e
 
 ### Día 2, Sesión 1
 
-* Ya sabe programar en R, ¿y enseñarlo? - Cristina Soto Rojas; Mariana Cubero Corella; Carlos Gamboa-Venegas
-* Incorporando R como herramienta de análisis de datos en el curso de Estadística para estudiantes de Computación - Esteban Jose Ballestero Alfaro
+* [Ya sabe programar en R, ¿y enseñarlo?]() - Cristina Soto Rojas; Mariana Cubero Corella; Carlos Gamboa-Venegas
+* [Incorporando R como herramienta de análisis de datos en el curso de Estadística para estudiantes de Computación](https://www.dropbox.com/s/dai4fta25o7uqjl/Uso%20de%20R%20en%20cursos%20de%20Estad%C3%ADstica_ConectaR%202021.pdf?dl=0) - Esteban Jose Ballestero Alfaro
 
 ### Día 2, Sesión 2
 
 * [Análisis de Sentimientos con Rstudio](https://www.dropbox.com/sh/09jqay282spycyt/AAAyuLln0_v7SnthfFahnbYSa?dl=0) - Estephani Jusep Rivera Jaramillo
-* Lo que no enseñan en cursos de ciencia de datos: Una interpretación práctica de DataOps - Ronny Alexander Hernández Mora
+* [Lo que no enseñan en cursos de ciencia de datos: Una interpretación práctica de DataOps]() - Ronny Alexander Hernández Mora
 
 ### Día 3, Sesión 1
 
