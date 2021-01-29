@@ -48,7 +48,7 @@ Crear y dirigir un startup de tecnología es un desafío; más aún es hacerlo e
 
 ### Día 2, Sesión 2
 
-* Análisis de Sentimientos con Rstudio - Estephani Jusep Rivera Jaramillo
+* [Análisis de Sentimientos con Rstudio](https://www.dropbox.com/sh/09jqay282spycyt/AAAyuLln0_v7SnthfFahnbYSa?dl=0) - Estephani Jusep Rivera Jaramillo
 * Lo que no enseñan en cursos de ciencia de datos: Una interpretación práctica de DataOps - Ronny Alexander Hernández Mora
 
 ### Día 3, Sesión 1
