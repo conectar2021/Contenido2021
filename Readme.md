@@ -20,12 +20,16 @@ El éxito de R depende de su comunidad. Históricamente, la popularidad de R (en
 
 ### Observatorio COVID19-BR - Andrea Sánchez-Tapia
 
+La presentación se puede encontrar [aquí]()
+
 El Observatorio COVID-19 BR es un grupo independiente de investigadores de diversas instituciones que tiene el objetivo de analizar el estado de la pandemia de COVID-19 en Brasil y divulgar información actualizada y de calidad al público. El Observatorio cuenta con más de 40 investigadores de diversas áreas del conocimiento, y mantiene una comunicación cercana con diversos actores relevantes para el manejo de la pandemia, como gestores de salud pública, educadores y medios de comunicación, para subsidiar la toma de decisiones y divulgar información de manera precisa. Los grupos de trabajo dentro del Observatorio utilizan bases de datos públicas, repositorios de código abierto y flujos de trabajo automatizados para generar modelos matemáticos, simular diferentes escenarios e identificar tendencias de la pandemia en Brasil. La página del Observatorio es https://covid19br.github.io/ y la cuenta de twitter es https://twitter.com/obscovid19br. 
 
 
 ![](Keynote4-01.png)
 
 ### EmprendeR: notas sobre el uso de R en la dirección de una empresa de robótica - Florian Pestoni
+
+La presentación se puede encontrar [aquí]()
 
 Crear y dirigir un startup de tecnología es un desafío; más aún es hacerlo en una área emergente como la de los robots autónomos. Como fundador y CEO de InOrbit, una plataforma para operación de robots a escala, mi objetivo es utilizar datos para tomar mejores decisiones. Con un equipo pequeño, donde todos ponemos nuestro mejor esfuerzo para avanzar el producto y el negocio, es importante para mí poder ser autosuficiente y no depender de que algún ingeniero o científico de datos pueda tomarse el tiempo para contestar una pregunta. Se espera que alguien como yo con un MBA pueda utilizar Excel, y sin duda lo he usado intensamente para crear modelos financieros complejos. Pero a la hora de sumergirme más profundo en los datos operativos, la limitaciones de Excel se hicieron sentir. Así es que decidí aprender R y crear dashboards, reportes y notebooks. En esta charla, quiero compartir mi experiencia en el trayecto hacia el uso de R en la dirección de una empresa de robótica.
 
