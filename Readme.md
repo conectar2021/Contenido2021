@@ -55,23 +55,23 @@ Crear y dirigir un startup de tecnología es un desafío; más aún es hacerlo e
 
 ### Día 3, Sesión 1
 
-* Geovisor del Sistema Nacional de Información Ambiental - Allan Martínez M.
-* Uso de R para fiscalización de compras públicas - Juan Alejandro Herrera López
+* [Geovisor del Sistema Nacional de Información Ambiental]() - Allan Martínez M.
+* [Uso de R para fiscalización de compras públicas]() - Juan Alejandro Herrera López
 
 ### Día 3, Sesión 2
 
-* Ciencia de datos aplicada a la gestión de control de las contribuciones sociales en la lucha contra la pobreza en Costa Rica - Roberto Delgado Castro	
-* Dittodb: un entorno de prueba para consultas a bases de datos - Mauricio Vargas	
+* [Ciencia de datos aplicada a la gestión de control de las contribuciones sociales en la lucha contra la pobreza en Costa Rica]() - Roberto Delgado Castro	
+* [Dittodb: un entorno de prueba para consultas a bases de datos](https://pacha.dev/conectar/2021-02-04/talk/#1) - Mauricio Vargas	
 
 ### Día 4, Sesión 1
 
-* R y Google para digital marketing - Gloria Edith Rodriguez Ramirez	
-* Gestión de consumo eléctrico en plantas de generación mediante R - David Barquero Álvarez	
+* [R y Google para digital marketing]() - Gloria Edith Rodriguez Ramirez	
+* [Gestión de consumo eléctrico en plantas de generación mediante R]() - David Barquero Álvarez	
 
 ### Día 4, Sesión 2
 
-* R en procesos Lean Six Sigma para industrias de manufactura latinoamericanas - Jhair Aldás	
-* Identificación de nombres de empresas en artículos de noticias: Aplicación de la técnica NER en lenguaje natural - Gustavo Céspedes Ramírez	
+* [R en procesos Lean Six Sigma para industrias de manufactura latinoamericanas]() - Jhair Aldás	
+* [Identificación de nombres de empresas en artículos de noticias: Aplicación de la técnica NER en lenguaje natural]() - Gustavo Céspedes Ramírez	
 
 ## Pósters
 
