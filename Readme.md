@@ -64,13 +64,13 @@ Crear y dirigir un startup de tecnología es un desafío; más aún es hacerlo e
 
 ### Día 3, Sesión 2
 
-* [Ciencia de datos aplicada a la gestión de control de las contribuciones sociales en la lucha contra la pobreza en Costa Rica]() - Roberto Delgado Castro	
-* [Dittodb: un entorno de prueba para consultas a bases de datos](https://pacha.dev/conectar/2021-02-04/talk/#1) - Mauricio Vargas	
+* [Ciencia de datos aplicada a la gestión de control de las contribuciones sociales en la lucha contra la pobreza en Costa Rica](*https://www.dropbox.com/s/iv94l6r4r86c9t9/Presentacion_DESAF_ConectaR2021.pdf?dl=0) - Roberto Delgado Castro	
+* [Dittodb: un entorno de prueba para consultas a bases de datos](*https://pacha.dev/conectar/2021-02-04/talk/#1) - Mauricio Vargas	
 
 ### Día 4, Sesión 1
 
 * [R y Google para digital marketing]() - Gloria Edith Rodriguez Ramirez	
-* [Gestión de consumo eléctrico en plantas de generación mediante R]() - David Barquero Álvarez	
+* [Gestión de consumo eléctrico en plantas de generación mediante R](*https://www.dropbox.com/s/qfnsisxf7io95jh/ConectaR_2021_David_Barquero.pdf?dl=0) - David Barquero Álvarez	
 
 ### Día 4, Sesión 2
 
