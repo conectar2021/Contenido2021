@@ -74,8 +74,8 @@ Crear y dirigir un startup de tecnología es un desafío; más aún es hacerlo e
 
 ### Día 4, Sesión 2
 
-* [R en procesos Lean Six Sigma para industrias de manufactura latinoamericanas]() - Jhair Aldás	
-* [Identificación de nombres de empresas en artículos de noticias: Aplicación de la técnica NER en lenguaje natural]() - Gustavo Céspedes Ramírez	
+* [R en procesos Lean Six Sigma para industrias de manufactura latinoamericanas](*https://www.dropbox.com/s/htjihvmmen1uvw1/PONENCIA%20R%20Lean%20Six%20Sigma%20en%20procesos%20de%20manufactura%20latinoamericanas.pdf?dl=0) - Jhair Aldás	
+* [Identificación de nombres de empresas en artículos de noticias: Aplicación de la técnica NER en lenguaje natural](*https://drive.google.com/folderview?id=1sYhEFK9yOiWFI_WtS_lG-lYgSZOwvZYJ) - Gustavo Céspedes Ramírez	
 
 ## Pósters
 
