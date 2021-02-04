@@ -60,7 +60,7 @@ Crear y dirigir un startup de tecnología es un desafío; más aún es hacerlo e
 ### Día 3, Sesión 1
 
 * [Geovisor del Sistema Nacional de Información Ambiental]() - Allan Martínez M.
-* [Uso de R para fiscalización de compras públicas]() - Juan Alejandro Herrera López
+* [Uso de R para fiscalización de compras públicas](https://www.dropbox.com/s/jpaygenxkkhffmn/Fiscalizando_compras_publicas.pdf?dl=0) - Juan Alejandro Herrera López
 
 ### Día 3, Sesión 2
 
