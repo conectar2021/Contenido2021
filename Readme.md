@@ -20,7 +20,7 @@ El éxito de R depende de su comunidad. Históricamente, la popularidad de R (en
 
 ### Observatorio COVID19-BR - Andrea Sánchez-Tapia
 
-La presentación se puede encontrar [aquí]()
+La presentación se puede encontrar [aquí](https://andreasancheztapia.gitlab.io/conectar_keynote/#1)
 
 El Observatorio COVID-19 BR es un grupo independiente de investigadores de diversas instituciones que tiene el objetivo de analizar el estado de la pandemia de COVID-19 en Brasil y divulgar información actualizada y de calidad al público. El Observatorio cuenta con más de 40 investigadores de diversas áreas del conocimiento, y mantiene una comunicación cercana con diversos actores relevantes para el manejo de la pandemia, como gestores de salud pública, educadores y medios de comunicación, para subsidiar la toma de decisiones y divulgar información de manera precisa. Los grupos de trabajo dentro del Observatorio utilizan bases de datos públicas, repositorios de código abierto y flujos de trabajo automatizados para generar modelos matemáticos, simular diferentes escenarios e identificar tendencias de la pandemia en Brasil. La página del Observatorio es https://covid19br.github.io/ y la cuenta de twitter es https://twitter.com/obscovid19br. 
 
