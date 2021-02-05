@@ -29,8 +29,6 @@ El Observatorio COVID-19 BR es un grupo independiente de investigadores de diver
 
 ### EmprendeR: notas sobre el uso de R en la dirección de una empresa de robótica - Florian Pestoni
 
-La presentación se puede encontrar [aquí]()
-
 Crear y dirigir un startup de tecnología es un desafío; más aún es hacerlo en una área emergente como la de los robots autónomos. Como fundador y CEO de InOrbit, una plataforma para operación de robots a escala, mi objetivo es utilizar datos para tomar mejores decisiones. Con un equipo pequeño, donde todos ponemos nuestro mejor esfuerzo para avanzar el producto y el negocio, es importante para mí poder ser autosuficiente y no depender de que algún ingeniero o científico de datos pueda tomarse el tiempo para contestar una pregunta. Se espera que alguien como yo con un MBA pueda utilizar Excel, y sin duda lo he usado intensamente para crear modelos financieros complejos. Pero a la hora de sumergirme más profundo en los datos operativos, la limitaciones de Excel se hicieron sentir. Así es que decidí aprender R y crear dashboards, reportes y notebooks. En esta charla, quiero compartir mi experiencia en el trayecto hacia el uso de R en la dirección de una empresa de robótica.
 
 ![](keynote1-01.png)
@@ -69,7 +67,7 @@ Crear y dirigir un startup de tecnología es un desafío; más aún es hacerlo e
 
 ### Día 4, Sesión 1
 
-* [R y Google para digital marketing]() - Gloria Edith Rodriguez Ramirez	
+* R y Google para digital marketing - Gloria Edith Rodriguez Ramirez	
 * [Gestión de consumo eléctrico en plantas de generación mediante R](https://www.dropbox.com/s/qfnsisxf7io95jh/ConectaR_2021_David_Barquero.pdf?dl=0) - David Barquero Álvarez	
 
 ### Día 4, Sesión 2
